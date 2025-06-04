@@ -28,7 +28,7 @@ Make sure these tools are installed:
 ```bash
 # 1. Clone this repository
 git clone https://github.com/shebinbalan/hotel-guest-services-app.git
-cd your-project
+cd hotel-guest-services-app
 
 # 2. Install PHP dependencies
 composer install
